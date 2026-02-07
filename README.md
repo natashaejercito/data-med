@@ -1,5 +1,3 @@
-# data-med
-
 # Run the application - STEPS:
 
 Clone the repository
