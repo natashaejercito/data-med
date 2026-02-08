@@ -1,3 +1,4 @@
+## DataMed
 # Run the application - STEPS:
 
 Clone the repository
