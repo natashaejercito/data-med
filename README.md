@@ -1,4 +1,4 @@
-# data-med
+## DataMed
 
 # Run the application - STEPS:
 
